@@ -37,3 +37,7 @@
     background-color: var(--color-4);
     padding: 2em;
 }
+.features-items {
+    display: grid;
+    grid-template-columns: repeat(2, 20fr);
+}
